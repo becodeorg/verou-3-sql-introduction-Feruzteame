@@ -10,3 +10,8 @@
 3. INSERT INTO Coaches (id, name)
    VALUES (1, Basile);
    VALUES (2, Bert)
+
+## number 3
+
+1. SELECT * FROM groups;
+2. ALTER TABLE learners CHANGE name learners_name VARCHAR(255);
