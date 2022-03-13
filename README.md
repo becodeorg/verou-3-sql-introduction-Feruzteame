@@ -22,3 +22,7 @@
 
 ## number 5
  2. `DELETE FROM learners WHERE learners_name="Feruz";`
+
+## number 6
+1. `ALTER TABLE learners ADD CONSTRAINT category_id
+   FOREIGN KEY category_id REFERENCES categories(id);`
